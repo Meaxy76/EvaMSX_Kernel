@@ -1,6 +1,5 @@
 /* EvaMSX Kernel is a project for x86 developpement */
 /* Used for Aura Prototype 0A                       */
-/* Remake of an Evangelion                          */
 /* V0.0.1                                           */
 
 // GCC provides these header files automatically
